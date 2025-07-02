@@ -1,0 +1,13 @@
+body{
+    background-color:#ffdcdc;
+}
+h6{
+    color:black;
+}
+
+#box{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    position: absolute;
+}
